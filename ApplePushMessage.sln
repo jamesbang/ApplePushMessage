@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplePushMessage", "ApplePushMessage\ApplePushMessage.csproj", "{6AD71B7E-EB75-4FA5-BA61-9031EE318ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonAPNSForm", "MoonAPNSForm\MoonAPNSForm.csproj", "{0B593289-5F47-4326-8E68-94C5465A0784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD71B7E-EB75-4FA5-BA61-9031EE318ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD71B7E-EB75-4FA5-BA61-9031EE318ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD71B7E-EB75-4FA5-BA61-9031EE318ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD71B7E-EB75-4FA5-BA61-9031EE318ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B593289-5F47-4326-8E68-94C5465A0784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B593289-5F47-4326-8E68-94C5465A0784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B593289-5F47-4326-8E68-94C5465A0784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B593289-5F47-4326-8E68-94C5465A0784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D662B329-A64A-49D3-8A51-66C4143A5987}
+	EndGlobalSection
+EndGlobal
